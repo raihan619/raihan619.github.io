@@ -1922,9 +1922,9 @@ body {
   }
 }
 .cid-qTkAaeaxX5 {
-  padding-top: 75px;
+  padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #282828;
+  background-color: #ffffff;
 }
 @media (max-width: 767px) {
   .cid-qTkAaeaxX5 .content {
@@ -1987,6 +1987,13 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qTkAaeaxX5 H5 {
+  color: #279510;
+  text-align: left;
+}
+.cid-qTkAaeaxX5 P {
+  color: #279510;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
