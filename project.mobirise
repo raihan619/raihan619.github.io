@@ -573,6 +573,19 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-20191017-192820779-1-325x1481.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-20191017-192820779-1-325x1481-325x1481.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Curtain -Fittings",
+                "active": false
+              },
+              {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -608,7 +621,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Mats<br>",
+                "caption": "Coir Mats<br>",
                 "active": false
               },
               {
@@ -668,8 +681,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-20191028-162749-1080x707.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20191028-162749-1080x707-800x524.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20191028-162436-1052x546.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20191028-162436-1052x546-800x436.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -713,7 +726,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Premium Curtain Fittings",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -733,25 +746,51 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-20191028-162210-1074x866.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20191028-162210-1074x866-800x645.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Furnishing Cloths",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/img-20191028-162715-966x758.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20191028-162715-966x758-800x628.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Blinds",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20191028-162559-1052x1268.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20191028-162559-1052x1268-800x964.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Jute Mats",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20191028-162241-1011x818.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20191028-162241-1011x818-800x647.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Wallpapers",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20191028-162749-1080x707.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20191028-162749-1080x707-800x524.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Premium Ready-Made Curtains",
                 "active": false
               }
             ]
